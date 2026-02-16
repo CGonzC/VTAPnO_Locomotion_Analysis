@@ -12,7 +12,7 @@ Contents
 
 **Usage**
 
-Install required Python packages (see requirements.txt or environment.yml).
+Install required Python packages (see requirements.txt).
 
 Place input files in data/raw/ (not included).
 
