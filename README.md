@@ -1,23 +1,16 @@
-**Jupyter notebooks for behavioral, photometry, and electrophysiology analyses used in the VTAPnO pathway study.**
+# VTAPnO_Locomotion_Analysis
 
-Contents
+Jupyter notebooks for behavioral, photometry, and electrophysiology analyses used in the VTAPnO pathway study.
 
--Open-field locomotion direction classification from DeepLabCut tracking
+## Contents
+- Open-field locomotion direction classification from DeepLabCut tracking
+- Fiber photometry PSTH processing (ΔF/F, z-scoring, peri-stimulus alignment)
+- Opto-tagging classification (MATLAB)
 
--Frequency stimulation analysis
+## Usage
+1. Install required Python packages (see `requirements.txt`).
+2. Place input files in `data/raw/` (not included).
+3. Run notebooks in `notebooks/` top-to-bottom.
 
--Fiber photometry processing (ΔF/F, z-scoring, peri-stimulus alignment)
-
--Opto-tagging and chronic recording summary analyses
-
-**Usage**
-
-Install required Python packages (see requirements.txt).
-
-Place input files in data/raw/ (not included).
-
-Run notebooks in notebooks/ top-to-bottom.
-
-**Notes**
-
+## Notes
 This repository contains analysis code only. Raw data are not included.
