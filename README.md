@@ -53,4 +53,4 @@ All custom analysis code is provided in this repository.
 
 ## License
 
-Code is made available for academic use.
+This code is released under the MIT License.
