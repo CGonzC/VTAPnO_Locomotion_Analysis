@@ -4,11 +4,11 @@ This folder contains representative example input data for the MATLAB-based opto
 
 ## Files
 - Curated_clusters_spike_times_columns_sorted1.csv: example spike-times file
-- Stim_B1.mat (or Stim_R1.mat): example stimulus file
+- Stim_R1.mat; 635nm pulses (or Stim_B1.mat; 470 stim): example stimulus file
 
 ## Expected file structure
 
-### Curated_clusters_spike_times_columns_sorted1.csv
+### Curated_clusters_1.csv
 This CSV contains spike times in samples.
 
 - The first row contains neuron IDs
