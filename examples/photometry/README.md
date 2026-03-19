@@ -3,7 +3,7 @@
 This folder contains representative example input data for the fiber photometry PSTH workflow used in this study.
 
 ## Files
-- `1_signal.csv`: example Doric signal file containing fluorescence traces
+- `1_signal.csv`: example Doric signal file containing fluorescence traces (The provided signal file is a temporally trimmed example containing 3 representative stimulation events from a longer recording)
 - `1_events.csv`: example event file used for peri-stimulus alignment
 
 ## Expected file structure
