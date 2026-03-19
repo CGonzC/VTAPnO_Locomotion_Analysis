@@ -21,8 +21,6 @@ Classifies locomotion direction and computes peri-stimulus movement metrics.
 `notebooks/Fiber_Photometry_PSTHv2.ipynb`  
 Computes ΔF/F and peri-stimulus responses from photometry recordings.
 
-*Note: the example signal file is a temporally trimmed segment (3 stimulation events) from a longer recording.*
-
 ### Opto-tagging (MATLAB)
 `matlab/optoTag_classification_unifiedCriteria_v2.m`  
 Identifies optogenetically responsive units using spike timing and shuffle-based significance.
